@@ -51,6 +51,7 @@
     }
   ],
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "@patrykkurzeja91:registry": "https://npm.pkg.github.com"
   }
 }
