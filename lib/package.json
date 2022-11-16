@@ -1,6 +1,6 @@
 {
   "name": "@patrykkurzeja91/storyblok-nuxt",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "description": "Storyblok Nuxt.js module",
   "main": "./src/module.js",
   "module": "./src/module.js",
