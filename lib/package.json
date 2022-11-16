@@ -1,5 +1,5 @@
 {
-  "name": "@storyblok/nuxt",
+  "name": "@patrykkurzeja91/storyblok-nuxt",
   "version": "0.0.1",
   "description": "Storyblok Nuxt.js module",
   "main": "./src/module.js",
@@ -14,7 +14,7 @@
     "src",
     "dist"
   ],
-  "repository": "https://github.com/storyblok/storyblok-nuxt",
+  "repository": "https://github.com/patrykkurzeja91/storyblok-nuxt",
   "scripts": {
     "test": "npm run test:unit && npm run test:e2e",
     "build": "nuxt-module-build && cp ../README.md ./",
