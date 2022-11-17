@@ -1,6 +1,5 @@
 {
   "name": "@storyblok/nuxt-ws",
-  "private": true,
   "version": "1.0.1",
   "workspaces": [
     "./lib",

@@ -1,5 +1,4 @@
 {
-  "private": true,
   "scripts": {
     "demo": "nuxt dev",
     "build": "nuxt build",
